@@ -1,0 +1,10 @@
+bin/
+obj/
+Deploy/
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.DS_Store
+.DS_Store
+Resource.designer.cs
